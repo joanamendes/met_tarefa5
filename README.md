@@ -81,13 +81,13 @@ Tecnologias utilizadas na comunicação
 
 #### 12. Matriz de RACI (Ficheiro excel)
 Atividades/Tarefas e Documentos | Joana | Elodie | Diogo | 
-- Levantamento de requistos     |   R       I        
-- Prototipagem                  |
-- Estudo da linguagem           |
-- Desenvolvimento               |
-- Testes                        |
-- Análise de Requisitos         |
-- Manual de Utilizador		        |   A       R	  
+- Levantamento de requistos____ |   R       I        
+- Prototipagem ________________ |
+- Estudo da linguagem__________ |
+- Desenvolvimento_______________|
+- Testes_______________________ |
+- Análise de Requisitos_______  |
+- Manual de Utilizador_________ |   A       R	  
 
 Intervenientes e responsabilidades:
 *R(esponsável), A(provação), C(onsultado), I(nformado)*
